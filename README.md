@@ -131,3 +131,5 @@ This repo — EU format research and injection method, vibecoded with Claude
 
 Disclaimer
 For educational and research purposes only. Use on hardware you own.
+
+Tested on digital copy of Dont Starve Console Edition. PS5 version 12.70
