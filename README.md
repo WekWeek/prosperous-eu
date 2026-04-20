@@ -6,10 +6,10 @@ The original exploit targets the US version (CUSA00158). This port adapts the in
 
 Status
 
-✅ Lua code execution confirmed on EU
-✅ "HELLO WORLD" proof of concept working
-⚠️ Full kernel chain untested — EU binary likely has different libc offsets
-⚠️ Requires PSN-connected account for Garlic Save resign
+->Lua code execution confirmed on EU
+-> "HELLO WORLD" proof of concept working
+x Full kernel chain untested — EU binary likely has different libc offsets
+x Requires PSN-connected account for Garlic Save resign
 
 
 What's Different (US vs EU)
